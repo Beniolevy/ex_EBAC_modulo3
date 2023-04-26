@@ -100,7 +100,7 @@ input /*ajusta as areas de dados, as areas para enserir os dados*/
 {
     0%
     {
-        top: -20%;
+        top: -40%;
         opacity: 0;
         pointer-events: none;
     }
